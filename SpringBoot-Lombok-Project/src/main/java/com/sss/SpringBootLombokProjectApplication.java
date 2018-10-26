@@ -14,5 +14,7 @@ public class SpringBootLombokProjectApplication {
 		
 		System.out.println(new User1());
 		System.out.println(new User2());
+		
+		//test
 	}
 }
