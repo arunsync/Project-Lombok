@@ -10,6 +10,7 @@ Lombok provides a lot of annotations:
   
   
   How to use it:
+    
     1. Download "Lombok" jar from "https://projectlombok.org/download"
     2. Double click the jar
     3. Installer will open
