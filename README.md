@@ -23,3 +23,4 @@ Lombok provides a lot of annotations:
     10. Create a Model class (Attached the pic) and annotate instance variable with @Getter & @Setter
     11. Other Annotations also there, see the attached pic
     
+Lombok is needed only at the compile time, once it is compliled, the .class files will have all the methods which were generated from Annotations. So lombok is not needed at runtime(ie, we don't need to package in jar/war. Keep the dependency scope is provided in pom.xml)
